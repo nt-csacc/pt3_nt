@@ -1,0 +1,57 @@
+html{
+    background-color:#A9DBFF;
+    background-image: url('../ts1MX6.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+header{
+    text-decoration: underline;
+    text-align: center;
+}
+
+body{
+    color:#3700FF;
+    font: normal 16px Arial, Helvetica, sans-serif;
+
+    line-height: 2;
+
+    padding: 5px;
+    margin-top: 5px;
+    margin: 5px 0;
+}
+
+.box-1{
+    border: 3px red solid;
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 80;
+    font-style: normal;
+    width: 33%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.box-2{
+    border: 3px blue solid;
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 80;
+    font-style: normal;
+    width: 33%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.box-3{
+    border: 3px orange solid;
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 80;
+    font-style: normal;
+    width: 33%;
+    box-sizing: border-box;
+    text-align: center;
+}
